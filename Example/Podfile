@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZHUHelp_Tests' do
+  pod 'ZHUHelp', :path => '../'
+  
+  
+end

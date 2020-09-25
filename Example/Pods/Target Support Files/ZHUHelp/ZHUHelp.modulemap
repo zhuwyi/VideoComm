@@ -1,0 +1,6 @@
+framework module ZHUHelp {
+  umbrella header "ZHUHelp-umbrella.h"
+
+  export *
+  module * { export * }
+}

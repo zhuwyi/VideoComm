@@ -1,0 +1,16 @@
+PODS:
+  - ZHUHelp (0.1.0)
+
+DEPENDENCIES:
+  - ZHUHelp (from `../`)
+
+EXTERNAL SOURCES:
+  ZHUHelp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHUHelp: f8649bfaf2a891bc90459e43a479db09ae980d33
+
+PODFILE CHECKSUM: bcb0add187f0064c9c2f3b78722ad7a7a1a60cf1
+
+COCOAPODS: 1.9.3
